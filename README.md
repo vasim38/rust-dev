@@ -11,6 +11,7 @@
 
 **Rust version release check and update**
 `rustup check`
+
 `rustup update`
 
 **Cargo build tool commands**
