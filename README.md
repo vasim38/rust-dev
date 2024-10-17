@@ -19,5 +19,6 @@
 `rustup update`
 
 **Cargo build tool commands**
-
-Create new project : `cargo new <project-name>`
+- Create new project : 
+  
+  `cargo new <project-name>`
